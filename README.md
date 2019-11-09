@@ -8,9 +8,9 @@ Igrica izrađena tokom kursa "The Web Developer Bootcamp" od Colt Steela kojeg m
 https://www.udemy.com/course/the-web-developer-bootcamp/
 
 Tehnologije korištene:
--HTML5
--CSS
--Javascript
+- HTML5
+- CSS
+- Javascript
 
 Live demo: https://aneskurtovic.github.io/IgraBojaRGB/
 
