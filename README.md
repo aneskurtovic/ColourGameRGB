@@ -14,4 +14,4 @@ Javascript
 
 Live demo: https://aneskurtovic.github.io/IgraBojaRGB/
 
-![Color Game]https://i.imgur.com/MaVQERD.png)
+![Color Game](https://i.imgur.com/MaVQERD.png)
