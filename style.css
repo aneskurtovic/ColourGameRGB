@@ -76,3 +76,9 @@ button:hover{
     background-color: steelblue;
     color: white;
 }
+
+@media only screen and (max-width: 600px) {
+  #linija {
+    height: 50px;
+  }
+}
