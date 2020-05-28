@@ -1,15 +1,15 @@
-# IgraBojaRGB
-Zanimljiva igrica za vježbanje RGB boja
+# ColourGame
+Interesting game for practicing RGB colours!
 
-Cilj je pogoditi traženu RGB kombinaciju od 3 ili 6 ponuđenih polja. 
-Postoje dvije težine: Hard(6 polja) Easy(3 polja)
+Goal is to guess desired RGB colour combination with 3 to 6 offered fields.
+There are two difficulty levels: Hard(6 fields) and Easy(3 fields)
 
-Igrica izrađena tokom kursa "The Web Developer Bootcamp" od Colt Steela kojeg možete pronaći na Udemyu.
+Game was made during the course "The Web Developer Bootcamp" authored by Colt Steela which you can find on Udemy.
 https://www.udemy.com/course/the-web-developer-bootcamp/
 
-Tehnologije korištene:
+Technologies used:
 - HTML5
-- CSS
+- CSS3
 - Javascript
 
 Live demo: https://aneskurtovic.github.io/IgraBojaRGB/
