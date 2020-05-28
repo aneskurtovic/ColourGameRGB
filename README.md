@@ -12,6 +12,6 @@ Technologies used:
 - CSS3
 - Javascript
 
-Live demo: https://aneskurtovic.github.io/IgraBojaRGB/
+Live demo: https://colour-game.now.sh/
 
 ![Color Game](https://i.imgur.com/MaVQERD.png)
